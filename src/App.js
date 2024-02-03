@@ -74,7 +74,7 @@ function App() {
         </div>
       </section>
 
-      <a className="githubLogo">
+      <a className="githubLogo" href="https://github.com/Aayaan-Kumar/kymenchat">
         <img src="./github.png" alt="github" />
       </a>
 
