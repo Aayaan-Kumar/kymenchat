@@ -280,7 +280,7 @@ section.container .inputCon .sendBtn img {
   }
 
   section.container .textCon .userMsg, section.container .textCon .botMsg {
-    font-size: 10px;
+    font-size: 12px;
     padding: 6px 10px;
   }
 }
